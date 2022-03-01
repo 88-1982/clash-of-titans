@@ -59,9 +59,9 @@ API
 * 3:00 Trying to get access token from superheroAPI website but is not working
 * 4:00 Still unsuccessful with getting access token from superhero api website
 #### Monday 2/28
-* 6:00 created app
+* 6:00 created react app
 * 7:00 added dependencies and files
-
+* 8:00 Still was unable to get access to api information from the super hero api website
 
 
 
