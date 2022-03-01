@@ -56,6 +56,11 @@ API
 * 11:30 Watched Videos on one way data binding
 * 12:30 Researched how use snapshot for testing
 * 2:00 Researched information on react-router-dom
+* 3:00 Trying to get access token from superheroAPI website but is not working
+* 4:00 Still unsuccessful with getting access token from superhero api website
+#### Monday 2/28
+* 6:00 created app
+* 7:00 added dependencies and files
 
 
 
